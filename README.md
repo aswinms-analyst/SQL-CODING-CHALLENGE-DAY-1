@@ -1,4 +1,3 @@
-# SQL-CODING-CHALLENGE-DAY-1
 # Hospital Database
 
 # 📌 Overview
